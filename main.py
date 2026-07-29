@@ -45,7 +45,7 @@ async def on_ready():
             except Exception as e:
                 print(f"Failed to connect: {e}")
         else:
-            print("Channel ID not found!")
+            print("1092498035369582592")
 
 # 3. รันระบบ
 if __name__ == "__main__":
@@ -56,4 +56,4 @@ if __name__ == "__main__":
     if TOKEN:
         bot.run(TOKEN)
     else:
-        print("Error: DISCORD_TOKEN is missing!")
+        print("MTUzMTk5MzMwMzI5MjE4MjYzOA.GRWOyZ.JpADlYHhua95a5f8Cez69Iz5CplGqqGdgcd4Ek")
